@@ -1,0 +1,11 @@
+[1mdiff --git a/local.html b/local.html[m
+[1mindex 8689380..3790d43 100644[m
+[1m--- a/local.html[m
+[1m+++ b/local.html[m
+[36m@@ -1,2 +1,3 @@[m
+ <link rel="stylesheet" href="local.css">[m
+[31m-<p>now i create local and use init method</p>[m
+\ No newline at end of file[m
+[32m+[m[32m<p>now i create local and use init method</p>[m
+[32m+[m[32m<p>this is a new feature of new branch feature1</p>[m
+\ No newline at end of file[m
